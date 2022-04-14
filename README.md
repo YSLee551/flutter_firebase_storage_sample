@@ -7,7 +7,7 @@
 
 ## [유의사항]
 
-1. 본인의 Firebase 프로젝트를 만들고, 이 샘플 Flutter 프로젝트에 연결하셔야 합니다.(iOS - GoogleService-Info.plist 추가, Android - google-services.json 추가)
+1. 본인의 Firebase 프로젝트를 만들고, 이 샘플 Flutter 프로젝트에 연결하셔야 합니다.
 
 2. Flutter와 Dart 버전을 확인하세요.
 
